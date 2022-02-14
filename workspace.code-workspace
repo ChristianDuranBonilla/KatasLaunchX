@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Documents\\LaunchX"
+		},
+		{
+			"path": "Módulo 0 - Preparación del entorno de trabajo"
+		},
+		{
+			"path": "Módulo 1 - Primeros pasos"
+		},
+		{
+			"path": "Módulo 2 - Crear y administrar proyectos"
+		},
+		{
+			"path": "Módulo 3 - Usar lógica booleana"
+		},
+		{
+			"path": "Módulo 4 - Cadenas"
+		},
+		{
+			"path": "Módulo 5 - Usar operaciones matemáticas"
+		},
+		{
+			"path": "Módulo 6 - Introducción a las listas"
+		},
+		{
+			"path": "images"
+		}
+	],
+	"settings": {}
+}
